@@ -41,7 +41,7 @@ function Projects() {
       desc: [
         "Developed CLI-based weather forecasting tool",
         "Integrated live weather API for real-time data",
-        "Displayed temperature, humidity, and conditions",
+        "Displayed temperature, humidity and other climatic conditions",
         "Handled API errors and invalid inputs gracefully"
       ]
     }
