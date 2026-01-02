@@ -6,7 +6,7 @@ const skills = [
   { name: "DevOps Fundamentals", level: 65 },
   { name: "SQL & Databases", level: 85 },
   { name: "Python", level: 80 },
-  { name: "Git & Version Control", level: 75 },
+  { name: "Git & Version Control", level: 70 },
 ];
 
 function Skills() {
